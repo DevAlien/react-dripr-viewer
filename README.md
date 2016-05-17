@@ -7,6 +7,8 @@ At the moment, as a test it supports just images.
 
 It wants to be a ReactJS implementation of https://github.com/DevAlien/dripr-embed
 
+[![Dripr.io Image for react](https://files.dripr.io/c228885e-4711-488f-8009-6f2b2ac851eb.png)](https://dripr.io/file/V1DyoJNzW)
+
 # Installation
 The easiest way to use *react-dripr-viewer* is to install it from npm and include it in your React build process (using [Webpack](http://webpack.github.io/), [Browserify](http://browserify.org/), etc).
 

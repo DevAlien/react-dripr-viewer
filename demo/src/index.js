@@ -1,7 +1,7 @@
 import React from 'react'
 import {render} from 'react-dom'
-
 import Component from '../../src'
+import '../../styles/style.css'
 
 let Demo = React.createClass({
   render() {
